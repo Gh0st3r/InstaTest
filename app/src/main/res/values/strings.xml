@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InstaTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="insert_user_hint">Введите имя пользователя</string>
+    <string name="descr_image">Картинка</string>
+    <string name="check_photo">В коллаж!</string>
+    <string name="btn_collage">Давай коллаж!</string>
+    <string name="instagram_id">91484867531c4a96b6e8b0fdac67df43</string>
+    <string name="instagram_secret">3c9b5e46e9404fc5afb5aae90d1e3401</string>
+    <string name="token">748020657.9148486.e8d364fb4d884c3b9bdc3fdc91346128</string>
+    <string name="callbackurl">http://localhost</string>
+    <string name="title_activity_photo_picker">PhotoPicker</string>
+    <string name="btnMakeCollage">Создать</string>
+    <string name="title_activity_collage">CollageActivity</string>
+    <string name="btnSend">Отправить</string>
+    <string name="img2">img2</string>
+    <string name="img1">img1</string>
+    <string name="img3">img3</string>
+    <string name="img4">img4</string>
+    <string name="title_activity_send_dialog">Отправка </string>
+    <string name="btnCancel">Отмена</string>
+    <string name="hintSendTo">Введите свой E-mail</string>
+    <string name="sendTitle">Тема сообщения</string>
+    <string name="defSendTo">genavv@yandex.ru</string>
+    <string name="defTitle">test</string>
+    <string name="defUserName">peace_ohpeace</string>
+
+</resources>
