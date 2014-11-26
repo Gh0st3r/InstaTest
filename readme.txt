@@ -1,4 +1,4 @@
-Используемые библиотеки:
+Libraries:
 
 - universalimageloader;
 - javamail-android.
